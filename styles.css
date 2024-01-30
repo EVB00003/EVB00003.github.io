@@ -24,6 +24,7 @@ ul {
 h1.div {
   border-style: dotted;
   border-width: 2px;
+  border-color: Lavender;
   width: 200px;
   height: 200px;
 }
