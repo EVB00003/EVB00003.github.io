@@ -21,10 +21,8 @@ ul {
   list-style-type: square;
 }
 
-p.div {
-  border-style: dotted;
-  border-width: 2px;
-  border-color: Lavender;
+.profile-image {
   width: 200px;
   height: 200px;
+  border: 2px dotted Lavender;
 }
