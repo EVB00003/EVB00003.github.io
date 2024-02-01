@@ -1,17 +1,12 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   background: Ivory;
   color: Gray;
-  margin: none;
+  margin: 0;
 }
 
 h1 {
   font-size: 35px;
-  border-bottom: 2px solid Gray;
+  border-bottom: 1px solid Gray;
 }
 
 p {
@@ -41,5 +36,6 @@ ul {
 
 a {
   background-color: IndianRed;
+  padding: 5px;
   border-radius: 5px;
 }
