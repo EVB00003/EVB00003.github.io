@@ -1,7 +1,10 @@
+* {
+  margin: 0;
+}
+
 body {
   background: Ivory;
   color: Gray;
-  margin: 0;
 }
 
 h1 {
