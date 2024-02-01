@@ -31,3 +31,8 @@ ul {
 .navigation {
   background-color: DarkSalmon;
 }
+
+a {
+  background-color: LightSalmon;
+  border-radius: 5px;
+}
