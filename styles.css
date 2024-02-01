@@ -34,11 +34,12 @@ ul {
 
 .navigation {
   background-color: DarkSalmon;
-  padding: 50px 25px 50px 25px;
+  padding: 10px 20px 10px 20px;
 }
 
 a {
   background-color: IndianRed;
   padding: 5px;
   border-radius: 5px;
+  text-decoration: none;
 }
