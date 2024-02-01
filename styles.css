@@ -1,6 +1,7 @@
 body {
   background: Ivory;
   color: Gray;
+  margin: none;
 }
 
 h1 {
@@ -30,6 +31,7 @@ ul {
 
 .navigation {
   background-color: DarkSalmon;
+  padding: 50px 25px 50px 25px;
 }
 
 a {
