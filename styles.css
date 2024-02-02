@@ -10,6 +10,13 @@ body {
     "section aside"
     "article aside"
     "footer footer";
+  grid-template-rows: 100px 100px 1fr 1fr 70px;
+  grid-template-columns: auto 300px ;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+  height: 100vh;
+  margin: 0;
+  
   background: Ivory;
   color: Gray;
   padding: 10px 20px 10px 20px;
