@@ -67,6 +67,10 @@ h1 {
   border-bottom: 1px solid Gray;
 }
 
+h2 {
+  padding-top: 1.2em;
+}
+
 p {
   font-size: 16px;
   color: DarkBlue;
@@ -101,4 +105,12 @@ a {
 
 address {
   padding: 1.2em;
+}
+
+div {
+  padding: 1.2em;
+}
+
+figure {
+  padding: 1.2em 0px;
 }
