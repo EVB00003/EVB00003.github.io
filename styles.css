@@ -3,6 +3,13 @@
 }
 
 body {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "nav nav"
+    "section aside"
+    "article aside"
+    "footer footer";
   background: Ivory;
   color: Gray;
   padding: 10px 20px 10px 20px;
